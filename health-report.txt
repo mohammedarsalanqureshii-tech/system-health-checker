@@ -1,0 +1,30 @@
+=========================
+SYSTEM-HEALTH-REPORT
+Genarated : 2026-00-06/02/26 19:00:44 
+=========================
+
+--- CPU USAGE ---
+CPU usage : 8.2%
+CPU usage is normal
+
+---RAM USAGE---
+Total RAM: 7940MB
+Used RAM: 2136MB
+Usage: {26}%
+RAM usage is normal
+
+--- DISK USAGE ---
+Total Disk : 30G
+Used Disk : 8.3G
+Usage : 30%
+Disk usage is normal
+
+---IMPORTANT DIRECTORIES---
+/etc Exist
+/var Exist
+/home Exist
+/tmp Exist
+
+=========================
+     END OF THE REPORT     
+=========================
