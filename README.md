@@ -1,4 +1,4 @@
-#System-Health-Checker
+##System-Health-Checker
 A bash script that check system health
 and generates a detailed report.
 ## What it checks
